@@ -5,6 +5,13 @@
 
 A modern, full-stack expense tracking application with a dark-themed dashboard UI. Built with React, Convex, and Tailwind CSS.
 
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ConvexDB](https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=database&logoColor=white)
+![License](https://img.shields.io/github/license/VarsshanCoder/Zoho-Finance-Lite?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/VarsshanCoder/Zoho-Finance-Lite?style=for-the-badge&logo=github)
 ## Features
 
 ### Core Functionality
