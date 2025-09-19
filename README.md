@@ -13,7 +13,7 @@ A modern, full-stack expense tracking application with a dark-themed dashboard U
   - Recent transactions overview
   - Key statistics cards
 
-### Advanced Features
+### ✨ Advanced Features
 - **Search & Filter**: Filter expenses by category, date range, and search by description
 - **Data Export**: Export expense data as CSV files for external analysis
 - **Auto-categorization**: Smart category suggestions based on expense descriptions
@@ -136,6 +136,9 @@ The app automatically suggests categories based on description keywords:
 - **Entertainment**: movie, concert, game, entertainment
 - **Bills & Utilities**: electric, water, internet, phone, bill
 - **Healthcare**: doctor, hospital, pharmacy, medical
+
+## 📸 ScreenShots And Demo Video
+
 
 ## Contributing
 
