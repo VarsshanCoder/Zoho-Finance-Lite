@@ -138,6 +138,14 @@ The app automatically suggests categories based on description keywords:
 - **Healthcare**: doctor, hospital, pharmacy, medical
 
 ## 📸 ScreenShots And Demo Video
+![alt text](https://github.com/VarsshanCoder/Zoho-Finance-Lite/blob/main/Demo/Screenshot%202025-09-20%20004753.png)
+![alt text](https://github.com/VarsshanCoder/Zoho-Finance-Lite/blob/main/Demo/Screenshot%202025-09-20%20004210.png)
+![alt text](https://github.com/VarsshanCoder/Zoho-Finance-Lite/blob/main/Demo/Screenshot%202025-09-20%20004222.png)
+![alt text](https://github.com/VarsshanCoder/Zoho-Finance-Lite/blob/main/Demo/Screenshot%202025-09-20%20004234.png)
+![alt text](https://github.com/VarsshanCoder/Zoho-Finance-Lite/blob/main/Demo/Screenshot%202025-09-20%20004331.png)
+![alt text](https://github.com/VarsshanCoder/Zoho-Finance-Lite/blob/main/Demo/Screenshot%202025-09-20%20004340.png)
+![alt text](https://github.com/VarsshanCoder/Zoho-Finance-Lite/blob/main/Demo/Screenshot%202025-09-20%20004443.png)
+![alt text](https://github.com/VarsshanCoder/Zoho-Finance-Lite/blob/main/Demo/Screenshot%202025-09-20%20004459.png)
 
 
 ## Contributing
