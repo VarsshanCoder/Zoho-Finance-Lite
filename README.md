@@ -150,7 +150,7 @@ The app automatically suggests categories based on description keywords:
 ![alt text](https://github.com/VarsshanCoder/Zoho-Finance-Lite/blob/main/Demo/Screenshot%202025-09-20%20004443.png)
 ![alt text](https://github.com/VarsshanCoder/Zoho-Finance-Lite/blob/main/Demo/Screenshot%202025-09-20%20004459.png)
 
-##👨‍💻 Author
+### 👨‍💻 Author
 Developed by Amirtha Varsshan ✨
 Inspired by Zoho’s mission to create practical, user-friendly software.
 
