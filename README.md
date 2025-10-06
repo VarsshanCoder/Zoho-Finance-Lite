@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="https://github.com/VarsshanCoder/Zoho-Finance-Lite/blob/main/Demo/Screenshot%202025-09-20%20004210.png" alt="Zoho-Finance Lite" width="100%" />
+</p>
 
 # Personal Expense & Budget Tracker
 
